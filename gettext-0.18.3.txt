@@ -1,0 +1,36 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: gettext-0.18.3.zip
+       Short Description: gettext v0.18.3 for OS/2
+        Long Description: gettext v0.18.3 for OS/2.
+This is the GNU gettext package.  It is interesting for authors or
+maintainers of other packages or programs which they want to see
+internationalized.  As one step the handling of messages in different
+languages should be implemented.  For this task GNU gettext provides
+the needed tools and library functions.
+
+      Proposed directory
+           for placement: /pub/os2/dev/misc
+
+               Your name: KO Myung-Hun
+           Email address: komh@chollian.net
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: http://www.gnu.org/software/gettext/
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: 
+ Additional requirements: kLIBC065
+                          libiconv v0.14
+                          expat library v1.95.6 -Zmtd build
+                          GLib 2.12.4 rc1  21.12.2006
+                          pthread by netlabs
+
+                Replaces: (none)
+
+
+
